@@ -10,6 +10,4 @@ class ChattyStudent < Student
     puts n * 10
   end
 
-  super
-
 end
